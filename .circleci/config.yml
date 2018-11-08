@@ -35,3 +35,6 @@ jobs:
         
       # run some python stuff
       - run: python hello.py
+      
+      # run some node stuff
+      - run: node hello.js
