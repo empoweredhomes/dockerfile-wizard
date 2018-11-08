@@ -1,1 +1,19 @@
-
+{
+  "name": "dockerfile-wizard",
+  "version": "1.0.0",
+  "description": "Easily build Docker images with different versions/combinations of common languages/dependencies, for use on CircleCI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empoweredhomes/dockerfile-wizard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empoweredhomes/dockerfile-wizard/issues"
+  },
+  "homepage": "https://github.com/empoweredhomes/dockerfile-wizard#readme"
+}
